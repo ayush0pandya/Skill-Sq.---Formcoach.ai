@@ -89,7 +89,7 @@ npm run dev
 
 ## 👥 Team
 
-Built at Cornell Hackathon 2025
+Built at Cornell Hackathon 2026
 1) Ayush Pandya (me)
 2) Ye Lin
 3) Weiqi Han
